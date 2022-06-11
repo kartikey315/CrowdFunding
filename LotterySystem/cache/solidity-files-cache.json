@@ -1,0 +1,43 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\tusha\\OneDrive\\Desktop\\BlockChain Projects\\LotterySystem\\contracts\\Lottery.sol": {
+      "lastModificationDate": 1652889189697,
+      "contentHash": "99e0d2833f704460b43bf51cbc50271f",
+      "sourceName": "contracts/Lottery.sol",
+      "solcConfig": {
+        "version": "0.7.3",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          },
+          "metadata": {
+            "useLiteralContent": false
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.5.0 <0.9.0"
+      ],
+      "artifacts": [
+        "Lotter"
+      ]
+    }
+  }
+}
